@@ -1,0 +1,17 @@
+{
+  "name": "com.nadaked.project-setup",
+  "version": "1.0.0",
+  "displayName": "Nadaked Unity Project Setup",
+  "description": "A reusable Unity Editor package for creating project folders, installing essential packages and importing TMP resources.",
+  "unity": "6000.3",
+  "keywords": [
+    "unity",
+    "editor",
+    "project-setup",
+    "tools",
+    "upm"
+  ],
+  "author": {
+    "name": "Nadaked"
+  }
+}
