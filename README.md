@@ -45,7 +45,7 @@ https://github.com/nadaked/unity-project-setup.git
 To install a specific release:
 
 ```text
-https://github.com/nadaked/unity-project-setup.git#v1.0.0
+https://github.com/nadaked/unity-project-setup.git#v1.0.1
 ```
 
 ### Install as a local package
