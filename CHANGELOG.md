@@ -14,6 +14,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 * Optional package configuration
 * Additional Unity template cleanup rules
 
+## [1.0.2] - 2026-08-01
+
+### Fixed
+
+- Added missing `.meta` files for `README.md` and `CHANGELOG.md`.
+- Fixed immutable package warnings when installed through Unity Package Manager.
+
 ## [1.0.1] - 2026-08-01
 
 ### Added
@@ -60,3 +67,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 * Added Editor-only assembly definition
 * Added local and Git-based Unity Package Manager support
 
+[Unreleased]: https://github.com/nadaked/unity-project-setup/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/nadaked/unity-project-setup/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/nadaked/unity-project-setup/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/nadaked/unity-project-setup/releases/tag/v1.0.0
